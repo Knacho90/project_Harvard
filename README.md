@@ -4,7 +4,7 @@
 [https://youtu.be/lH4P-isr8pw?si=4OlJt-Ve7MWmfhFV]
 
 ### Description:
-AidGenius is an interactive platform developed in Python that allows users to create accounts, log in, and access a variety of features aimed at enhancing user experience in both educational and everyday activities. This platform offers modules for playing games, performing calculations, managing inventory, and shopping in an online supermarket.
+project_harvard is an interactive platform developed in Python that allows users to create accounts, log in, and access a variety of features aimed at enhancing user experience in both educational and everyday activities. This platform offers modules for playing games, performing calculations, managing inventory, and shopping in an online supermarket.
 
 - **User Registration and Login**: Users can register accounts and log in to access personalized content. The login system ensures secure access by validating user credentials.
 - **Games Section**: Once logged in, users can play a variety of interactive games, such as rock-paper-scissors and a football penalty shootout game. These games add a fun and engaging element to the platform.
